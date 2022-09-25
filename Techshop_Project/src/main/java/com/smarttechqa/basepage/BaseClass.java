@@ -32,7 +32,7 @@ public class BaseClass {
 		//driver.close(); //will close the window only (1 current tab) used on internet explorer
 	
 	   
-	
+	System.out.println("I create my automation project");
 	
 	}
 	
